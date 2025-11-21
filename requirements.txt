@@ -4,5 +4,5 @@ numpy
 Pillow
 scikit-learn 
 scipy
-matpotlin
+matplotlib
 seaborn
